@@ -55,8 +55,7 @@ job_finder_agent/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Arindam200/awesome-ai-apps.git
-cd advance_ai_agents/job_finder_agent
+git clone https://github.com/khorwalharshita/Job-searching-agent.git
 ```
 
 2. Create a virtual environment:
